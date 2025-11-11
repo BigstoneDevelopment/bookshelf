@@ -1,1 +1,1 @@
-https://github.com/mcbookshelf/bookshelf
+https://github.com/mcbookshelf/bookshelf/
